@@ -1,0 +1,1 @@
+I messed up some of the commit messages, there are 3 all with Added testsHasCity but actually the first was the addition of testsHasCity the second was added hasCity and the third was added testsDeleteCity
